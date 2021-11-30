@@ -1,0 +1,144 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+.carousel-item {
+  height: 600px;
+  width: 100%;
+}
+
+.about-img {
+  min-width: 100%;
+  max-height: 280px;
+}
+
+.service img {
+  width: 100%;
+  height: 100%;
+}
+
+.offer-style {
+  background: #a6dcef;
+}
+
+/* screen capture */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: cornflowerblue;
+}
+
+.fas {
+  color: blue;
+}
+.fa-snowflake {
+  transition: all linear;
+  animation: rot 2s linear infinite;
+}
+@keyframes rot {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.logo {
+  font-size: 50px;
+}
+
+.tempInformation {
+  color: black;
+
+  font-weight: bold;
+  font-size: 20px;
+}
+.carouselExampleSlidesOnly {
+  padding: 20px;
+}
+.img {
+  width: 100%;
+  height: 300px;
+  padding: 20px;
+}
+.back {
+  background-color: black;
+}
+
+#start {
+  background-color: white;
+  color: black;
+}
+#start:hover {
+  background-color: green;
+  color: white;
+}
+#stop {
+  background-color: blue;
+  color: black;
+}
+#stop:hover {
+  background-color: black;
+  color: white;
+}
+#save {
+  background-color: green;
+  color: black;
+}
+#save:hover {
+  background-color: red;
+  color: white;
+}
+#clear {
+  background-color: red;
+  color: black;
+}
+#clear:hover {
+  background-color: black;
+  color: white;
+}
+
+.abcd {
+  background-color: pink;
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+}
+.abcd:hover {
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+/* login page  */
+/* 
+
+ #login img{
+    margin: 10px 0;
+  }
+  #login .center {
+    text-align: center;
+  }
+
+ 
+  
+  #login .login {
+    max-width: 300px;
+    margin: 35px auto;
+  }
+  
+  #login .login-form{
+    padding:0px 25px;
+  }  
+
+  h1{
+      color: red;
+  } */
